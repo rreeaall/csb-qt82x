@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://rreeaall.github.io/csb-qt82x/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://rreeaall.github.io/csb-qt82x/static/js/main.b288b62c.chunk.js",
+    "main.js.map": "https://rreeaall.github.io/csb-qt82x/static/js/main.b288b62c.chunk.js.map",
+    "runtime-main.js": "https://rreeaall.github.io/csb-qt82x/static/js/runtime-main.b4805535.js",
+    "runtime-main.js.map": "https://rreeaall.github.io/csb-qt82x/static/js/runtime-main.b4805535.js.map",
+    "static/js/2.ddce9bf0.chunk.js": "https://rreeaall.github.io/csb-qt82x/static/js/2.ddce9bf0.chunk.js",
+    "static/js/2.ddce9bf0.chunk.js.map": "https://rreeaall.github.io/csb-qt82x/static/js/2.ddce9bf0.chunk.js.map",
+    "index.html": "https://rreeaall.github.io/csb-qt82x/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://rreeaall.github.io/csb-qt82x/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.ddce9bf0.chunk.js.LICENSE.txt": "https://rreeaall.github.io/csb-qt82x/static/js/2.ddce9bf0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4805535.js",
+    "static/js/2.ddce9bf0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.b288b62c.chunk.js"
+  ]
+}
